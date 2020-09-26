@@ -45,7 +45,7 @@
 ## 作业题目和拓展题目讲解
 ### 算法面试
 1. 程序员面试
-	![From: Leetcode.com](https://github.com/XinheLIU/Algorithm012-TA/blob/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95.jpg)
+	![From: Leetcode.com](/img.jpg)
 2. 为什么要面算法
 	* 程序员的基本功
 	* 多维度考查
